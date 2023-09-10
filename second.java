@@ -3,7 +3,6 @@ public class second{
 
         System.out.println("wecome to github");
         System.out.println(" FFF to github");
-
         System.out.println("welcome to github");
 
     }
